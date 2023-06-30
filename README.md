@@ -1,14 +1,3 @@
-# git-essentials
+# Git Essentials / Git for Everybody 
 
-
-#Deployment Notes
-
-
-
-#Staging Notes
-
-
-
-#How to use this repo notes
-
-
+A course by Kalob Taulien
